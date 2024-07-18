@@ -1,9 +1,0 @@
-diff a/css/style.css b/css/style.css	(rejected hunks)
-@@ -300,7 +300,6 @@
- 
- .table_event_access td {
-   padding-top: 11px;
--  width: 980px;
-   width: 100px;
- }
- 
